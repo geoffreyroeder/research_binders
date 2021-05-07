@@ -1,13 +1,10 @@
-name: example-environment
+name: research_binders 
 channels:
   - conda-forge
 dependencies:
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
+  - jax
+  - ipywidgets
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - scipy

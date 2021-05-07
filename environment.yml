@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - seaborn
   - matplotlib
   - jax
   - ipywidgets
